@@ -9,6 +9,7 @@ By using the Service, you accept the privacy practices described in this Privacy
 
 ### 2. Information We May Collect From You
 When you use the Service, we may collect the following types of personal data from you:
+
 #### (i) Data You Provide to Us Directly
 We collect information you provide directly to us. In particular, we may collect the following information from our users that may, in certain circumstances, constitute personal data:
 - Images and text you send for the purpose of providing feedback about the Service
@@ -17,7 +18,99 @@ We collect information you provide directly to us. In particular, we may collect
 - Any other information you choose to provide to us or in the Service.
 If you contact us, a record of this correspondence may be kept.
 
-### Markdown
+#### (ii) Data Collected Automatically
+The Service may automatically collect the following information from you that in certain circumstances may constitute personal data:
+- Usage data: We collect information on the ways in which you use the Service, such as how long you spend on certain parts on the Service. This information helps us understand better how people use our Service and how we can improve their user experience. Additionally, details of transactions you carry out through the Service, such as in-app purchase history or math problems, may also be collected. Such information might be stored on a device storage and sent to the Service servers;
+- Device data: We collect information about the device you use to access the Service, including for example the hardware model, operating system and version, unique device identifiers, MAC address, IP Address, and mobile network information;
+- Images taken from the camera: We may collect and use images taken with your device camera through the app. This information might be used to test and improve the quality of the Service. Such information might be stored on a device storage and sent to the Service servers.
+- Analytics technologies: Technologies such as cookies*, beacons, anonymous unique identifiers, tags, crash logs and scripts are used in the Service. We use these technologies to analyze trends, administer the Service, enable features on the Service, track users’ movements around the Service and to gather demographic information about our users. We use technology created by third parties to enable such technological features.
+- Third party analytics providers: We may use third-party analytics services to analyze the Service on our behalf. These service providers may use cookies*, web beacons, crash logs and other technologies to collect information about your use of the Service. These service providers enable us to collect, monitor and analyze data regarding the use of the Service, in order to understand how users use the Service and to increase the functionality and user-friendliness of the Services, as well as to better tailor the Service to users’ needs. Accordingly, some automatically collected data is shared with such third party service providers, who have their own privacy policies applicable to their operations. 
+*Note: Cookies are small text files that are downloaded to your computer, tablet or mobile phone when you use the Service (visit a website or application). The website or application may retrieve and/or set these cookies from your web browser (eg Internet Explorer, Mozilla Firefox or Google Chrome) each time you visit to recognize you and your preferences and provide you with a more secure online experience.
+
+Generally, cookies are very useful and are a common method used by almost every website you visit For security reasons, many websites will not function at all without the use of cookies or other similar technologies. Cookies generally do not hold any information to identify an individual person but are instead used to identify a browser or an individual device. You can restrict, block or delete cookies by changing your browser settings but that may mean that the website won't work properly.
+
+**How to manage cookies on your web browser**
+In the settings of your web browser you can access and change all cookie settings. Most web browsers automatically accept cookies, so if you want to change, delete, or block them, you must do so manually. For mobile devices, consult your phone’s manual for instructions on how to clear cookies.
+
+### 3. The Purposes for Which We Use The Data
+
+#### a) We use the personal data you provide to us directly for the following purposes:
+- To set up and maintain your registration with the Service, if you chose to register and if you are of legal age for registration;
+- To manage the Service;
+- To provide features available in the Service;
+- To develop, improve, and protect the Service;
+- To communicate with you;
+- To facilitate and process any in-app purchases you may make in the Service;
+- To prevent and investigate fraud and other misuses;
+- To protect our rights and/or our property;
+- To operate and improve our products and services;
+- For market research;
+- For electronic direct marketing, in compliance with applicable laws;
+- To audit and analyze the Service; and
+- To ensure the technical functionality and security of the Service.
+In particular, please note that we use the images and feedback you send by using the Service to improve the Service, including its math problem solving and feedback capabilities, and to improve our other products and services, such as machine vision technologies from Gobrainiac affiliates and partners.
+
+#### b) We use the data collected automatically for the following purposes:
+- To improve customer service;
+- To personalize user experience;
+- To manage the Service;
+- To provide features available in the Service;
+- To develop, improve, and protect the Service and our other products and services, such as our machine vision technologies;
+- For market research;
+- To audit and analyze the Service, including analyzing trends related to the use of the Service; and
+- To ensure the technical functionality and security of the Service.
+
+### 4. How We Disclose Data
+We do not sell, lease, rent or otherwise disclose the personal data relating to our users to third parties unless otherwise stated below.
+The personal data collected in the Service may be disclosed in the following manner:
+
+#### a) Personal data you provide directly:
+We may disclose personal data you provide to the Service with the following categories of third parties:
+- To service providers, such as data storage service providers, which enable us to provide the Service to you;
+- To our business partners, such as advertising partners, in compliance with applicable laws;
+- To public authorities, such as law enforcement, if we are legally required to do so or if we need to protect our rights or the rights of third parties;
+- To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets, or in connection with bankruptcy proceedings, or other corporate reorganization, in accordance with this Privacy Policy;
+- To our technology partners, such as machine vision technology partners; and
+- To other third parties, with your consent or as otherwise required or permitted by law.
+
+#### b) Data collected automatically:
+The data collected automatically in the Service may be disclosed to the following categories of third parties:
+- To service providers, such as data analysis companies;
+- To our business partners, such as advertising partners, in compliance with applicable laws;
+- To public authorities, such as law enforcement, if we are legally required to do so or if we need to protect our rights or the rights of third parties;
+- To our subsidiaries and affiliates; or a subsequent owner, co-owner, or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets, or in connection with bankruptcy proceedings, or other corporate reorganization, in accordance with this Privacy Policy;
+- To our technology partners, such as machine vision technology partners; and
+- To other third parties, with your consent or as otherwise required or permitted by law.
+Moreover, we may disclose information to third parties in an aggregate format that does not constitute personal data and does not allow the identification of individual users.
+
+### 5. Your Rights
+You have the following rights with respect to the personal data we hold about you:
+- The right to know what data we hold about you: If you would like to know what personal data we hold about you, please contact us at support@gobrainiac.com. We seek to promptly respond to your inquiry.
+- The right to have incomplete, incorrect, outdated, or unnecessary personal data corrected, deleted, or updated. The easiest way to delete, or update your data in the Service is to log in to the Service and enter the necessary changes in the account settings of the Service. If you have additional questions regarding the correction, deletion, or updating of the personal data we hold about you, please contact us at support@gobrainiac.com.
+- By providing information to the Service that forms the basis of communications with you, such as contact information, if you are a non-EU user, you agree to receive electronic communications from us. However, you have the right to opt out of receiving electronic direct marketing communications from us: All electronic direct marketing communications that you may receive from us, such as e-mail messages and SMS-messages, give you an option of not receiving such communications from us in the future. If you have any additional questions about electronic direct marketing received from us, please contact us at support@gobrainiac.com
+
+### 6. Data Security
+We take reasonable measures to protect personal data about you from unauthorized access or against loss, misuse or alteration by third parties. Despite these efforts to store personal data collected in and through the Service in a secure operating environment that is not available to the public, we cannot guarantee the security of personal data during its transmission or its storage on our systems. Further, while we attempt to ensure the integrity and security of personal data, we cannot guarantee that our security measures will prevent third-parties such as so-called hackers from illegally obtaining access to personal data. We do not warrant or represent that personal data about you will be protected against, loss, misuse, or alteration by third parties.
+
+### 7. International Transfers of Personal Data
+Some elements of the Service may be hosted on servers located in countries outside your own country. The laws applicable to the protection of personal data in such countries may be different from those applicable in your home country. In particular, if you are located within the European Union, please note that personal data collected by us is transferred outside the European Union / European Economic Area. You consent to personal data about you being transferred outside your own country and, where applicable, outside the European Union / European Economic Area.
+
+### 8. Advertising
+To support and enhance the Application, we work with a variety of third party advertising networks, marketing analytics service providers and website analysis firms such as Facebook and Google (collectively, "Third Party Advertising Service Providers"). These Third Party Advertising Service Providers collect and use personal data about your visits to and use of the Website and mobile Application, as well as other websites in order to serve you with advertisements and content tailored to meet your preferences and likely interests or better understand ad effectiveness. Aggregate demographic and interest data will also be used for market research purposes.
+You can opt-out of receiving personalized ads from advertisers and ad networks that are members of the Network Advertising Initiative ("NAI") or who follow the DAA Self-Regulatory Principles for Online Behavioral Advertising using their respective opt-out tools. The NAI's opt-out tool can be found here and the DAA’s opt out tool can be found here. You may also manage certain advertising cookies by visiting the EU-based Your Online Choices.
+In addition, your mobile devices may offer settings that enable you to make choices about the collection, use, or transfer of mobile app information for online behavioral advertising (for example, Apple iOS’ Advertising ID and Google Android’s Advertising ID). Please note that opting out does not prevent the display of all advertisements to you.
+
+### 9. Children’s Privacy
+At all times the Service does not knowingly collect personal data from children under 13 (or applicable age in your country). If we learn that we have unknowingly collected personal data from a child, please contact us at support@gobrainiac.com
+
+### 10. Changes to the Privacy Policy
+From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the “Last Updated” legend on top of this page. If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service. We encourage you to review the Privacy Policy whenever you access the Service to stay informed about our privacy practices. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made.
+
+### 11. Questions or Concerns?
+Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at support@gobrainiac.com. We seek to promptly resolve any concerns you may have.
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
